@@ -22,13 +22,29 @@ const just = "max-w-[1240px] m-auto px-2 py-16 w-full ";
 const skillsData = [
   { image: Html, label: "HTML", link: "https://www.w3schools.com/html/" },
   { image: Css, label: "CSS", link: "https://www.w3schools.com/css/" },
-  { image: Javascript, label: "JavaScript", link: "https://www.javascript.com/", },
-  { image: TypeScript, label: "TypeScript", link: "https://www.typescriptlang.org/", },
+  {
+    image: Javascript,
+    label: "JavaScript",
+    link: "https://www.javascript.com/",
+  },
+  {
+    image: TypeScript,
+    label: "TypeScript",
+    link: "https://www.typescriptlang.org/",
+  },
   { image: ReactImg, label: "React", link: "https://react.dev/" },
   { image: NextJS, label: "Next.JS", link: "https://nextjs.org/docs" },
   { image: Node, label: "Node.JS", link: "https://nodejs.org/en/about" },
-  { image: Bootstrap, label: "Bootstrap", link: "https://www.w3schools.com/bootstrap/" },
-  { image: Java, label: "Java", link: "https://www.java.com/en/download/help/whatis_java.html", },
+  {
+    image: Bootstrap,
+    label: "Bootstrap",
+    link: "https://www.w3schools.com/bootstrap/",
+  },
+  {
+    image: Java,
+    label: "Java",
+    link: "https://www.java.com/en/download/help/whatis_java.html",
+  },
   { image: Python, label: "Python", link: "https://www.python.org/" },
   { image: CPP, label: "C++", link: "https://cplusplus.com/" },
   { image: MongoDB, label: "MongDB", link: "https://www.mongodb.com/" },

@@ -51,7 +51,8 @@ const Projects = () => {
             Title: Hand Gesture Tracker
             <br></br>
             <br></br>
-            Developed a Python script that converted ASL gestures into text using webcams. 
+            Developed a Python script that converted ASL gestures into text
+            using webcams.
           </p>
 
           {/* Project 2*/}
@@ -68,7 +69,8 @@ const Projects = () => {
             Title: PlutoHacks
             <br></br>
             <br></br>
-            Awarded 1st Place for developing an accessibility website using HTML, JavaScript, and Bootstrap.  
+            Awarded 1st Place for developing an accessibility website using
+            HTML, JavaScript, and Bootstrap.
           </p>
 
           {/* Project 3*/}
@@ -85,7 +87,8 @@ const Projects = () => {
             Title: ShellHacks
             <br></br>
             <br></br>
-            Authenticated an interactive earth sustainers website with a team of four using Auth0 and React. 
+            Authenticated an interactive earth sustainers website with a team of
+            four using Auth0 and React.
           </p>
 
           {/* Project 4*/}
@@ -102,7 +105,8 @@ const Projects = () => {
             Title: Robot App
             <br></br>
             <br></br>
-            Automated Florida Power and Lights robot by building a mobile app with a team of five using Java. 
+            Automated Florida Power and Lights robot by building a mobile app
+            with a team of five using Java.
           </p>
 
           {/* Project 5*/}
@@ -119,7 +123,8 @@ const Projects = () => {
             Title: Motion Occurence App
             <br></br>
             <br></br>
-            Built a portable surveillance system with a team of two using Python and Microcontroller.   
+            Built a portable surveillance system with a team of two using Python
+            and Microcontroller.
           </p>
 
           {/* Pyradise*/}
@@ -136,7 +141,8 @@ const Projects = () => {
             Title: Pyradise
             <br></br>
             <br></br>
-            Led a team of six in developing a website for coding tutorials using HTML, JavaScript, and Bootstrap. 
+            Led a team of six in developing a website for coding tutorials using
+            HTML, JavaScript, and Bootstrap.
           </p>
         </div>
 
